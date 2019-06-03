@@ -49,11 +49,7 @@ h2>a:hover{
 p>a{
   text-decoration-line: none;
 }
-.email{
-  /*border-right: 100px;*/
-  position: relative;
-  left:2.5%;
-}
+
 .button{
   background-color:coral;
   color: white;
@@ -72,12 +68,6 @@ img{
   padding-left: 40px;
   padding-right: 40px;
   align-items: center;
-}
-footer{
-  text-align: center;
-  /*display:inline-block;*/
-  color: red;
-  font-family: fantasy;
 }
 @media only screen and (max-width: 480px){
   body{
