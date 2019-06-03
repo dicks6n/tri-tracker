@@ -1,0 +1,91 @@
+body{
+  background-image: url("bg.jpeg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  align-items: center;
+  font-size: xx-large;
+  color:aqua;
+  justify-content: center;
+  display: flex;
+  width:auto;
+  height:100%;
+}
+.overlay{
+  text-align:center;
+}
+
+#answer{
+  color: aqua;
+  text-decoration: underline;
+  /*background-color: white;*/
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+h2{
+  text-align: center;
+  font-style: italic;
+  color: red;
+}
+h2:hover{
+  font-size: xx-large;
+  border-radius: 0.8%;
+  font-style:normal;
+}
+
+h2>a{
+  text-decoration-line: none;:
+}
+h2>a:hover{
+  box-shadow: 5px;
+  background-color: coral;
+}
+p>a{
+  text-decoration-line: none;
+}
+.email{
+  /*border-right: 100px;*/
+  position: relative;
+  left:2.5%;
+}
+.button{
+  background-color:coral;
+  color: white;
+}
+.button1{
+  background-color: coral;
+
+}
+.form>p{
+  display: flow-root;
+  justify-content: center;
+  position:relative;
+  left: 50%;
+}
+img{
+  padding-left: 40px;
+  padding-right: 40px;
+  align-items: center;
+}
+footer{
+  text-align: center;
+  /*display:inline-block;*/
+  color: red;
+  font-family: fantasy;
+}
+@media only screen and (max-width: 480px){
+  body{
+    color: yellow;
+  }
+  img{
+    display:flex;
+    padding: 20px;
+    justify-content:center;
+  }
+}
