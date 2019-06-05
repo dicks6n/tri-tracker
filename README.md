@@ -1,7 +1,7 @@
 
 ## Triangle Tracker
 ### Author:
-
+DICKSON MACHARIA MAINA
 
 ### Description:
 Triangle tracker is a super cool, learning app, with the ability to detect the type of a triangle when a user keys in the values of the three sides of the triangle. (Equilateral, scalene, isosceles or not a triangle.)
@@ -28,7 +28,7 @@ It's a really useful app to the junior learners and and a beautiful tool for fun
 * Internet connection
 
 ### Link to the app:
-
+https://github.com/dicks6n/tri-tracker.git
 
 ### License:
 
