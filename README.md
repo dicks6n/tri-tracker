@@ -6,7 +6,7 @@
 ### Description:
 Triangle tracker is a super cool, learning app, with the ability to detect the type of a triangle when a user keys in the values of the three sides of the triangle. (Equilateral, scalene, isosceles or not a triangle.)
 
-It's a really useful app to the junior learners and and a beautifull tool for fun and help you relax the mind.
+It's a really useful app to the junior learners and and a beautiful tool for fun and help you relax the mind.
 
 ### Languages used:
 * HTML
